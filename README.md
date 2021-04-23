@@ -1,4 +1,4 @@
-# Sms Spam Detector
+# SMS Spam Detector
 
 * Developed a Machine Learning Model Using Naive Bayes Classifier which classifies a text message into two categories i.e Spam or Ham(Not Spam).
 
